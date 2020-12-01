@@ -13,6 +13,9 @@
 		FD20B43A2574A455006662C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD20B4382574A455006662C3 /* Main.storyboard */; };
 		FD20B43C2574A456006662C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD20B43B2574A456006662C3 /* Assets.xcassets */; };
 		FD20B43F2574A456006662C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD20B43D2574A456006662C3 /* LaunchScreen.storyboard */; };
+		FD20B4492576B0F9006662C3 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = FD20B4462576B0F9006662C3 /* Icon-72.png */; };
+		FD20B44A2576B0F9006662C3 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FD20B4472576B0F9006662C3 /* Icon.png */; };
+		FD20B44B2576B0F9006662C3 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD20B4482576B0F9006662C3 /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		FD20B43B2574A456006662C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD20B43E2574A456006662C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD20B4402574A456006662C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD20B4462576B0F9006662C3 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		FD20B4472576B0F9006662C3 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		FD20B4482576B0F9006662C3 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 		FD20B4312574A455006662C3 /* Color Sliders */ = {
 			isa = PBXGroup;
 			children = (
+				FD20B4462576B0F9006662C3 /* Icon-72.png */,
+				FD20B4472576B0F9006662C3 /* Icon.png */,
+				FD20B4482576B0F9006662C3 /* Icon@2x.png */,
 				FD20B4322574A455006662C3 /* AppDelegate.swift */,
 				FD20B4342574A455006662C3 /* SceneDelegate.swift */,
 				FD20B4362574A455006662C3 /* ViewController.swift */,
@@ -126,6 +135,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD20B43F2574A456006662C3 /* LaunchScreen.storyboard in Resources */,
+				FD20B44B2576B0F9006662C3 /* Icon@2x.png in Resources */,
+				FD20B4492576B0F9006662C3 /* Icon-72.png in Resources */,
+				FD20B44A2576B0F9006662C3 /* Icon.png in Resources */,
 				FD20B43C2574A456006662C3 /* Assets.xcassets in Resources */,
 				FD20B43A2574A455006662C3 /* Main.storyboard in Resources */,
 			);
